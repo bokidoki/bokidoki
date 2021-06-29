@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![bokidoki's GitHub stats](https://github-readme-stats.vercel.app/api?username=bokidoki)](https://bokidoki.github.io)
+[![bokidoki's GitHub stats](https://github-readme-stats.vercel.app/api?username=bokidoki&show_icons=true&theme=radical)](https://bokidoki.github.io)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bokidoki&layout=compact)](https://bokidoki.github.io)
 
